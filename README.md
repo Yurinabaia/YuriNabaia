@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ADVPL, PO UI**
 
-- 👨‍💻 All of my projects are available at [https://portifolioyurinabaia.000webhostapp.com/](https://portifolioyurinabaia.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://portifolioyurinabaiaduarte.000webhostapp.com/](https://portifolioyurinabaiaduarte.000webhostapp.com/)
 
 - 💬 Ask me about **PHP, LARAVEL, XAMARIN, FLUTTER, ADVPL, PO UI**
 
