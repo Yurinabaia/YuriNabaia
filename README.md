@@ -30,12 +30,12 @@
 
 - I'm passionate about development and technology.
 - I work as a **Web** and **Mobile** developer in Brazil.
-- Currently studying **ADVPL** and **PO UI**.
+- I have knowledge in Artificial Intelligence, Python, and LangChain.
 - All my projects are available on my [official portfolio](https://portifolioyurinabaia.com/).
 
 ## 💡 Talk to Me About
 
-**PHP, Laravel, Xamarin, Flutter, ADVPL, PO UI**
+**.NET, Flutter, Angular, React, Python, LangChain, Artificial Intelligence**
 
 ## 🎥 Learn More About My Experience
 
@@ -50,12 +50,13 @@
 ## 🚀 Technologies and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
-  <!-- Add other relevant technologies -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="Artificial Intelligence" width="40" height="40"/>
 </p>
 
 ---
